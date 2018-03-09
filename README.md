@@ -1,5 +1,4 @@
 ## The 4th Symposium on Biophysics Postgraduate Research in Hong Kong 
-## 第四屆香港生物物理研究生學術年會
 
 **Date:** 07/04/2018
 
