@@ -3,11 +3,11 @@
 
 **Date:** 07/04/2018
 
-**Location:** Room 1103, Academic Building, Hong Kong University of Science and Technology 
+**Location:** Room 1103, Academic Building, Hong Kong University of Science and Technology
 
 **Poster session:** the outside area of LT-B and LT-C 
 
-### The tentative schedule
+### The tentative schedule [(PDF version)](https://github.com/liusong299/the-4th-symposium-on-biophysics-postgraduate-research-in-hong-kong/raw/master/schedule-of-the-4th-symposium-on-biophysics-postgraduate-research-in-hong-kong.pdf)
 
 |      | Speakers | Organization | Title | Time |
 | :--: | :------: | :----------: | :---: | :--: |
